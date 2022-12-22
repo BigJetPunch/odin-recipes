@@ -1,0 +1,17 @@
+.title {
+    color: green;
+    background-color: rgba(15, 15, 153, 0.486);
+}
+
+.titleimage{
+    height: auto;
+    width:500px;
+}
+
+li{
+    background-color: red;
+}
+
+li.opposite {
+    background-color: blue;
+}
